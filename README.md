@@ -877,7 +877,7 @@ Review the individual licenses of Ollama models, Faster-Whisper, eSpeak NG, and 
 
 ## 20. Author
 
-**Local Voice Agent**
+**Karthikeyan Manikandan**
 
 Built with Node.js, Python, Faster-Whisper, Ollama, and eSpeak NG.
 
