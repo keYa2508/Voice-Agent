@@ -1,0 +1,27 @@
+
+[
+  {
+    "id": "PROD001",
+    "name": "Premium Laptop",
+    "category": "Electronics",
+    "price": 65000,
+    "stock": 12,
+    "description": "Intel i5 processor, 16GB RAM, 512GB SSD"
+  },
+  {
+    "id": "PROD002",
+    "name": "Wireless Headphones",
+    "category": "Accessories",
+    "price": 2500,
+    "stock": 30,
+    "description": "Bluetooth headphones with noise cancellation"
+  },
+  {
+    "id": "PROD003",
+    "name": "Smart Watch",
+    "category": "Electronics",
+    "price": 4500,
+    "stock": 8,
+    "description": "Fitness tracking, heart rate monitoring and Bluetooth"
+  }
+]
